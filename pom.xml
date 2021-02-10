@@ -2,16 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>i.jsv</groupId>
-    <artifactId>jv-exerice</artifactId>
+    <artifactId>jmv-solution-exerice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <dependencies>
-        <!-- postgresql -->
-        <dependency>
-            <groupId>org.postgresql</groupId>
-            <artifactId>postgresql</artifactId>
-            <version>42.2.14</version>
-        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
